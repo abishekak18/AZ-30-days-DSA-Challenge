@@ -9,3 +9,5 @@ Day 3 : https://leetcode.com/problems/largest-number/description/
 Day 4 : https://leetcode.com/problems/majority-element-ii/description/
 
 Day 5 : https://leetcode.com/problems/delete-characters-to-make-fancy-string/description/
+
+Day 6 : https://leetcode.com/problems/binary-subarrays-with-sum/description/
