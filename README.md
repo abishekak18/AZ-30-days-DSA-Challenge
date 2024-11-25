@@ -13,3 +13,5 @@ Day 5 : https://leetcode.com/problems/delete-characters-to-make-fancy-string/des
 Day 6 : https://leetcode.com/problems/binary-subarrays-with-sum/description/
 
 Day 7 : https://leetcode.com/problems/minimum-depth-of-binary-tree/description/
+
+Day 8 : https://leetcode.com/problems/next-greater-element-i/description/
