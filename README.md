@@ -15,3 +15,5 @@ Day 6 : https://leetcode.com/problems/binary-subarrays-with-sum/description/
 Day 7 : https://leetcode.com/problems/minimum-depth-of-binary-tree/description/
 
 Day 8 : https://leetcode.com/problems/next-greater-element-i/description/
+
+Day 9 : https://leetcode.com/problems/permutations/description/
