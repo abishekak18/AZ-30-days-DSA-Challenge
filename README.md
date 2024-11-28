@@ -19,3 +19,5 @@ Day 8 : https://leetcode.com/problems/next-greater-element-i/description/
 Day 9 : https://leetcode.com/problems/permutations/description/
 
 Day 10 : https://leetcode.com/problems/find-the-maximum-factor-score-of-array/description/
+
+https://leetcode.com/problems/k-th-symbol-in-grammar/description/
