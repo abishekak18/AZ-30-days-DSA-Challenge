@@ -21,3 +21,5 @@ Day 9 : https://leetcode.com/problems/permutations/description/
 Day 10 : https://leetcode.com/problems/find-the-maximum-factor-score-of-array/description/
 
 Day 11 : https://leetcode.com/problems/k-th-symbol-in-grammar/description/
+
+Day 12 : https://leetcode.com/problems/same-tree/description/
