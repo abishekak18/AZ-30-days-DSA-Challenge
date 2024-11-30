@@ -23,3 +23,5 @@ Day 10 : https://leetcode.com/problems/find-the-maximum-factor-score-of-array/de
 Day 11 : https://leetcode.com/problems/k-th-symbol-in-grammar/description/
 
 Day 12 : https://leetcode.com/problems/same-tree/description/
+
+Day 13 : https://leetcode.com/problems/count-of-substrings-containing-every-vowel-and-k-consonants-i/description/
