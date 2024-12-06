@@ -31,3 +31,9 @@ Day 14 : https://leetcode.com/problems/keyboard-row/description/?envType=problem
 Day 15 : https://leetcode.com/problems/sort-list/description/?envType=problem-list-v2&envId=sorting
 
 Day 16 : https://leetcode.com/problems/integer-to-roman/description/
+
+Day 17 : https://leetcode.com/problems/adding-spaces-to-a-string/description/
+
+Day 18 : https://leetcode.com/problems/jump-game-ii/description/
+
+Day 19 : https://leetcode.com/problems/rotate-image/
