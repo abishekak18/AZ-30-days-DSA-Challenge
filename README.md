@@ -39,3 +39,5 @@ Day 18 : https://leetcode.com/problems/jump-game-ii/description/
 Day 19 : https://leetcode.com/problems/rotate-image/
 
 Day 20 : https://leetcode.com/problems/binary-tree-maximum-path-sum
+
+Day 21 : https://leetcode.com/problems/digit-operations-to-make-two-integers-equal/description/
