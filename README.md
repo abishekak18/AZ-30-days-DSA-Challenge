@@ -45,3 +45,5 @@ Day 21 : https://leetcode.com/problems/digit-operations-to-make-two-integers-equ
 Day 22 : https://leetcode.com/problems/candy?envType=study-plan-v2&envId=top-interview-150
 
 Day 23 : https://leetcode.com/problems/group-anagrams/description/
+
+Day 24 : https://leetcode.com/problems/maximum-area-rectangle-with-point-constraints-i/description/
