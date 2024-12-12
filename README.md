@@ -47,3 +47,5 @@ Day 22 : https://leetcode.com/problems/candy?envType=study-plan-v2&envId=top-int
 Day 23 : https://leetcode.com/problems/group-anagrams/description/
 
 Day 24 : https://leetcode.com/problems/maximum-area-rectangle-with-point-constraints-i/description/
+
+Day 25 : https://leetcode.com/problems/max-points-on-a-line?envType=study-plan-v2&envId=top-interview-150
