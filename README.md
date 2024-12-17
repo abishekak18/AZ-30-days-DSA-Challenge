@@ -57,3 +57,5 @@ Day 27 : https://leetcode.com/problems/my-calendar-ii?envType=problem-list-v2&en
 Day 28 : https://leetcode.com/problems/ipo?envType=study-plan-v2&envId=top-interview-150
 
 Day 29 : https://leetcode.com/problems/my-calendar-iii
+
+Day 30 : https://leetcode.com/problems/count-beautiful-splits-in-an-array/description/
